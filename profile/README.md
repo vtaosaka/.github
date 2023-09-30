@@ -27,4 +27,5 @@
 </p>
 
 ## About
+<img align="right" width="70%" src="../assets/nlog.png">
 idk
