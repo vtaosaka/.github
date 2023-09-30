@@ -1,5 +1,5 @@
-# VTA OSAKA
-![img](https://github.com/vtaosaka/.github/blob/main/assets/logo-a.png?raw=true)
+<!-- # VTA OSAKA -->
+![img](https://github.com/vtaosaka/.github/blob/main/assets/logo-title-a.png?raw=true)
 
 <p align="center">
     <b>VANTAN Techford Academy Osaka Un Official Account </b>
